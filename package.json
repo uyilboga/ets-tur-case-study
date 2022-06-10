@@ -1,0 +1,31 @@
+{
+  "name": "etstur-case",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.0",
+    "axios": "^0.26.1",
+    "bootstrap": "^4.6.1",
+    "moment": "^2.29.3",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "18.1.0",
+    "react-feather": "^2.0.10",
+    "react-redux": "^7.2.8",
+    "react-uuid": "^1.0.2",
+    "sass": "^1.52.3",
+    "sweetalert2": "^11.4.17",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
